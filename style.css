@@ -120,8 +120,26 @@ img:hover{
 }
 
 
+.Estudio{
+
+    text-decoration: underline;
+     margin: 5px;
 }
 
+footer{
+    float: left;
+    width: 100%;
+    background-color: rgb(6, 10, 9);
+    color: rgb(81, 191, 154);
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 14px;
+}
+
+section{
+    scroll-behavior: smooth;
+}
 
 
     
